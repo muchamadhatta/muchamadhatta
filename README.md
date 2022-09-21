@@ -50,7 +50,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchamadhatta&layout=compact&theme=onedark&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
+ 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchamadhatta)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ### ✍️ Blog Posts : 
@@ -58,4 +59,3 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - [How to Implement Memoization in React to Improve Performance](https://www.sitepoint.com/implement-memoization-in-react-to-improve-performance/)
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)<!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-
