@@ -46,4 +46,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 ---
+### 🔥 &nbsp; My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=muchamadhatta&theme=midnight-purple&locale=id&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muchamadhatta&layout=compact&theme=vision-friendly-dark)](https://github.com/muchamadhatta/github-readme-stats)
+
+---
